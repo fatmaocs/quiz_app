@@ -47,7 +47,7 @@ function get_questions_by_category(category) {
             category_container.innerHTML = category.toUpperCase();
 
             //set count down 
-            count_down(5, no_questions);
+            count_down(10, no_questions);
 
             //create bulletes 
             create_bullets(no_questions);
@@ -69,7 +69,7 @@ function get_questions_by_category(category) {
                 add_questions_data(questionsObject[currentIndex], no_questions);
 
                 clearInterval(countdownInterval);
-                count_down(5, no_questions);
+                count_down(10, no_questions);
 
             });
 
