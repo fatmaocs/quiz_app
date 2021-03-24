@@ -1,0 +1,92 @@
+[
+    {
+        "question": "    What does CSS stand for ",
+        "answers": {
+            "a": "Computer Style Sheets",
+            "b": "Colorful Style Sheets",
+            "c": "Cascading Style Sheets"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the correct HTML for referring to an external style sheet? ",
+        "answers": {
+            "a": "<style src='mystyle.css'>",
+            "b": "<link rel='stylesheet' type='text/css' href='mystyle.css'>",
+            "c": "<stylesheet>mystyle.css</stylesheet>"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+        "answers": {
+            "a": "In the <body> section ",
+            "b": "In the <head> section ",
+            "c": "At the end of the document"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "answers": {
+            "a": "<script>",
+            "b": "<css>",
+            "c": "<style>"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "answers": {
+            "a": "style",
+            "b": "font",
+            "c": "class"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which is the correct CSS syntax?",
+        "answers": {
+            "a": "body {color: black;} ",
+            "b": "{body;color:black;",
+            "c": "body:color=black;"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "How do you insert a comment in a CSS file? ",
+        "answers": {
+            "a": "/* this is a comment */",
+            "b": "// this is a comment //",
+            "c": "// this is a comment "
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which property is used to change the background color? ",
+        "answers": {
+            "a": "color",
+            "b": "bgcolor",
+            "c": "background-color "
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How do you add a background color for all <h1> elements? ",
+        "answers": {
+            "a": "all.h1 {background-color:#FFFFFF;}",
+            "b": "h1.all {background-color:#FFFFFF;} ",
+            "c": "h1 {background-color:#FFFFFF;"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "answers": {
+            "a": "fgcolor",
+            "b": "color",
+            "c": "text-color "
+        },
+        "correct_answer": "b"
+    }
+]

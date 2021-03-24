@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Inside which HTML element do we put the JavaScript?  ",
+        "answers": {
+            "a": "<scripting> ",
+            "b": "<script>",
+            "c": "<js>"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where is the correct place to insert a JavaScript?",
+        "answers": {
+            "a": "The <head> section ",
+            "b": "The <body> section ",
+            "c": "Both the <head> section and the <body> section are correct "
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "answers": {
+            "a": "<script href='xxx.js'>",
+            "b": "<script name='xxx.js'>",
+            "c": "<script src='xxx.js'>"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box? ",
+        "answers": {
+            "a": "alertBox('Hello World');",
+            "b": "msg('Hello World');",
+            "c": "alert('Hello World');"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "answers": {
+            "a": "function = myFunction()",
+            "b": "function myFunction()",
+            "c": "function:myFunction()"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "How do you call a function named 'myFunction'?",
+        "answers": {
+            "a": "call function myFunction()",
+            "b": "call myFunction()",
+            "c": "myFunction()"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How to write an IF statement in JavaScript? ",
+        "answers": {
+            "a": "if i == 5 then ",
+            "b": "if (i == 5)",
+            "c": "if i = 5 then"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "How does a WHILE loop start? ",
+        "answers": {
+            "a": "while i = 1 to 10",
+            "b": "while (i <= 10; i++)",
+            "c": "while (i <= 10)"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "How does a FOR loop start? ",
+        "answers": {
+            "a": "for (i = 0; i <= 5; i++) ",
+            "b": "for (i <= 5; i++)",
+            "c": "for (i = 0; i <= 5)"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question": "How can you add a comment in a JavaScript? ",
+        "answers": {
+            "a": "'This is a comment ",
+            "b": "//This is a comment",
+            "c": "<!--This is a comment-->"
+        },
+        "correct_answer": "b"
+    }
+]
